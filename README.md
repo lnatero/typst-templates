@@ -3,7 +3,7 @@ A collection of different templates made for Typst
 
 # Usage
 
-For writing Typst I recommend either VS Code, VS Codium, Google's Antigravity or any other VS Code based editor, solely for the use of the [Tinymist](https://github.com/Myriad-Dreamin/tinymist) extension
+For writing Typst I recommend either VS Code, VS Codium, Google's Antigravity or any other VS Code based editor, solely for the use of the [Tinymist](https://github.com/Myriad-Dreamin/tinymist) extension.
 Within GitHub you can explore the files and folders to find the template you want to use.
 
 To use a template, you can either:
