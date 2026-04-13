@@ -1,5 +1,5 @@
 # :page_facing_up: typst-templates
-A collection of different templates made for Typst
+A collection of different templates made for Typst.
 
 ## :memo: Usage
 
